@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paulrosen/abcjs.git"
+    "url": "git+https://github.com/flxwu/abcjs.git"
   },
   "keywords": [
     "abc",
@@ -33,7 +33,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/paulrosen/abcjs/issues"
+    "url": "https://github.com/flxwu/abcjs/issues"
   },
   "homepage": "https://abcjs.net",
   "devDependencies": {
